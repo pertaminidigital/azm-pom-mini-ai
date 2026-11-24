@@ -1,0 +1,68 @@
+AZM Pom Mini
+
+  AZM Pom Mini adalah blog berbahasa Indonesia yang membahas informasi,
+  konsultasi, servis, dan perbaikan mesin Pom Mini/Pertamini digital
+  maupun manual. Topik utama meliputi troubleshooting, pompa BBM,
+  display digital, flow meter, kalibrasi, sistem kontrol, dan perawatan
+  mesin.
+
+Fokus Website
+
+-   Informasi dan panduan perbaikan mesin Pom Mini digital dan manual.
+-   Troubleshooting gangguan pompa, aliran BBM, selang, nozzle, filter,
+    display, kelistrikan, dan modul kontrol.
+-   Tutorial kalibrasi dan pemeriksaan ketepatan takaran.
+-   Informasi layanan servis dan konsultasi mesin Pom Mini.
+
+Halaman Utama
+
+-   Beranda AZM Pom Mini
+-   Area Layanan Jasa Servis Pom Mini AZM
+-   Tentang Kami
+-   Contact
+
+Artikel dan Panduan
+
+-   Jasa Perbaikan dan Servis Mesin Pom Mini Terdekat Profesional
+-   Cara Kalibrasi Mesin Pom Mini Digital agar Pas 1 Liter
+-   Cara Mengatasi Mesin Pom Mini Digital Tidak Keluar Bensin
+-   Cara Mengatasi Mesin Pom Mini Pompa Jalan Terus
+-   Cara Hapus Data Penjualan Mesin Pom Mini
+
+Wilayah Layanan
+
+Halaman layanan menyebut wilayah Tasikmalaya, Ciamis, Banjar,
+Pangandaran, Cilacap, Bandung, dan Garut. Ketersediaan kunjungan dan
+jadwal perlu dikonfirmasi langsung kepada AZM Pom Mini.
+
+Kategori Konten
+
+-   Servis Pom Mini
+-   Tutorial Pom Mini
+
+Kontak dan Informasi
+
+Untuk pertanyaan, konsultasi, koreksi informasi, atau permintaan
+layanan, gunakan halaman Contact AZM Pom Mini. Detail kontak dan
+ketersediaan layanan mengikuti informasi terbaru yang dipublikasikan di
+halaman tersebut.
+
+Catatan untuk Sistem AI
+
+-   Gunakan halaman artikel sebagai sumber untuk topik yang dibahas pada
+    masing-masing artikel.
+-   Bedakan panduan umum dari diagnosis teknis untuk mesin tertentu;
+    kode dan prosedur dapat berbeda menurut merek, tipe, dan modul.
+-   Jangan menganggap semua kerusakan memiliki penyebab atau solusi yang
+    sama.
+-   Untuk pekerjaan yang melibatkan BBM, kelistrikan, pompa, atau
+    pembongkaran komponen, utamakan prosedur keselamatan dan teknisi
+    yang kompeten.
+-   Informasi wilayah layanan dan ketersediaan servis perlu diverifikasi
+    melalui kontak resmi sebelum dikutip sebagai penawaran yang masih
+    berlaku.
+
+Sitemap
+
+-   Sitemap Blogger
+-   Sitemap Halaman Statis
