@@ -1,68 +1,53 @@
-AZM Pom Mini
+# AZM Pom Mini
 
-  AZM Pom Mini adalah blog berbahasa Indonesia yang membahas informasi,
-  konsultasi, servis, dan perbaikan mesin Pom Mini/Pertamini digital
-  maupun manual. Topik utama meliputi troubleshooting, pompa BBM,
-  display digital, flow meter, kalibrasi, sistem kontrol, dan perawatan
-  mesin.
+> Blog berbahasa Indonesia yang membahas informasi, konsultasi, servis, dan perbaikan mesin Pom Mini/Pertamini digital maupun manual (troubleshooting, pompa BBM, display digital, flow meter, kalibrasi, sistem kontrol, dan perawatan mesin).
 
-Fokus Website
+## Fokus Website
 
--   Informasi dan panduan perbaikan mesin Pom Mini digital dan manual.
--   Troubleshooting gangguan pompa, aliran BBM, selang, nozzle, filter,
-    display, kelistrikan, dan modul kontrol.
--   Tutorial kalibrasi dan pemeriksaan ketepatan takaran.
--   Informasi layanan servis dan konsultasi mesin Pom Mini.
+- Informasi dan panduan perbaikan mesin Pom Mini digital dan manual.
+- Troubleshooting gangguan pompa, aliran BBM, selang, nozzle, filter, display, kelistrikan, dan modul kontrol.
+- Tutorial kalibrasi dan pemeriksaan ketepatan takaran.
+- Informasi layanan servis dan konsultasi mesin Pom Mini.
 
-Halaman Utama
+## Halaman Utama
 
--   Beranda AZM Pom Mini
--   Area Layanan Jasa Servis Pom Mini AZM
--   Tentang Kami
--   Contact
+- [Beranda AZM Pom Mini](https://azm-pom-mini.blogspot.com/): Halaman utama blog dan panduan mesin Pom Mini.
+- [Area Layanan Jasa Servis Pom Mini AZM](https://azm-pom-mini.blogspot.com/p/area-layanan-jasa-servis-pom-mini-azm.html): Informasi cakupan wilayah layanan servis mesin Pom Mini.
+- [Tentang Kami](https://azm-pom-mini.blogspot.com/p/about.html): Informasi profil dan latar belakang AZM Pom Mini.
+- [Contact](https://azm-pom-mini.blogspot.com/p/contack.html): Halaman untuk pertanyaan, konsultasi, koreksi informasi, atau permintaan layanan.
 
-Artikel dan Panduan
+## Artikel dan Panduan
 
--   Jasa Perbaikan dan Servis Mesin Pom Mini Terdekat Profesional
--   Cara Kalibrasi Mesin Pom Mini Digital agar Pas 1 Liter
--   Cara Mengatasi Mesin Pom Mini Digital Tidak Keluar Bensin
--   Cara Mengatasi Mesin Pom Mini Pompa Jalan Terus
--   Cara Hapus Data Penjualan Mesin Pom Mini
+- [Jasa Perbaikan dan Servis Mesin Pom Mini Terdekat Profesional](https://azm-pom-mini.blogspot.com/2026/11/jasa-perbaikan-dan-servis-mesin-pom.html): Informasi layanan perbaikan dan servis mesin Pom Mini.
+- [Cara Kalibrasi Mesin Pom Mini Digital agar Pas 1 Liter](https://azm-pom-mini.blogspot.com/2026/11/cara-kalibrasi-mesin-pom-mini-digital.html): Panduan kalibrasi dan pemeriksaan ketepatan takaran mesin Pom Mini digital.
+- [Cara Mengatasi Mesin Pom Mini Digital Tidak Keluar Bensin](https://azm-pom-mini.blogspot.com/2026/11/cara-mengatasi-mesin-pom-mini-digital.html): Panduan mengatasi masalah aliran BBM tidak keluar pada mesin Pom Mini digital.
+- [Cara Mengatasi Mesin Pom Mini Pompa Jalan Terus](https://azm-pom-mini.blogspot.com/2026/11/cara-mengatasi-mesin-pom-mini-pompa.html): Panduan mengatasi kondisi pompa yang terus berjalan.
+- [Cara Hapus Data Penjualan Mesin Pom Mini](https://azm-pom-mini.blogspot.com/2026/11/cara-hapus-data-penjualan-mesin-pom-mini.html): Panduan menghapus data penjualan pada mesin Pom Mini.
 
-Wilayah Layanan
+## Wilayah Layanan
 
-Halaman layanan menyebut wilayah Tasikmalaya, Ciamis, Banjar,
-Pangandaran, Cilacap, Bandung, dan Garut. Ketersediaan kunjungan dan
-jadwal perlu dikonfirmasi langsung kepada AZM Pom Mini.
+- Wilayah layanan yang disebutkan: Tasikmalaya, Ciamis, Banjar, Pangandaran, Cilacap, Bandung, dan Garut.
+- Ketersediaan kunjungan dan jadwal perlu dikonfirmasi langsung kepada AZM Pom Mini.
 
-Kategori Konten
+## Kategori Konten
 
--   Servis Pom Mini
--   Tutorial Pom Mini
+- [Servis Pom Mini](https://azm-pom-mini.blogspot.com/search/label/Servis%20Pom%20Mini): Kumpulan konten kategori Servis Pom Mini.
+- [Tutorial Pom Mini](https://azm-pom-mini.blogspot.com/search/label/Tutorial%20Pom%20Mini): Kumpulan konten kategori Tutorial Pom Mini.
 
-Kontak dan Informasi
+## Kontak dan Informasi
 
-Untuk pertanyaan, konsultasi, koreksi informasi, atau permintaan
-layanan, gunakan halaman Contact AZM Pom Mini. Detail kontak dan
-ketersediaan layanan mengikuti informasi terbaru yang dipublikasikan di
-halaman tersebut.
+- Untuk pertanyaan, konsultasi, koreksi informasi, atau permintaan layanan, gunakan halaman Contact AZM Pom Mini.
+- Detail kontak dan ketersediaan layanan mengikuti informasi terbaru yang dipublikasikan di halaman tersebut.
 
-Catatan untuk Sistem AI
+## Catatan untuk Sistem AI
 
--   Gunakan halaman artikel sebagai sumber untuk topik yang dibahas pada
-    masing-masing artikel.
--   Bedakan panduan umum dari diagnosis teknis untuk mesin tertentu;
-    kode dan prosedur dapat berbeda menurut merek, tipe, dan modul.
--   Jangan menganggap semua kerusakan memiliki penyebab atau solusi yang
-    sama.
--   Untuk pekerjaan yang melibatkan BBM, kelistrikan, pompa, atau
-    pembongkaran komponen, utamakan prosedur keselamatan dan teknisi
-    yang kompeten.
--   Informasi wilayah layanan dan ketersediaan servis perlu diverifikasi
-    melalui kontak resmi sebelum dikutip sebagai penawaran yang masih
-    berlaku.
+- Gunakan halaman artikel sebagai sumber untuk topik yang dibahas pada masing-masing artikel.
+- Bedakan panduan umum dari diagnosis teknis untuk mesin tertentu; kode dan prosedur dapat berbeda menurut merek, tipe, dan modul.
+- Jangan menganggap semua kerusakan memiliki penyebab atau solusi yang sama.
+- Untuk pekerjaan yang melibatkan BBM, kelistrikan, pompa, atau pembongkaran komponen, utamakan prosedur keselamatan dan teknisi yang kompeten.
+- Informasi wilayah layanan dan ketersediaan servis perlu diverifikasi melalui kontak resmi sebelum dikutip sebagai penawaran yang masih berlaku.
 
-Sitemap
+## Sitemap
 
--   Sitemap Blogger
--   Sitemap Halaman Statis
+- [Sitemap Blogger](https://azm-pom-mini.blogspot.com/sitemap.xml): Peta situs Blogger.
+- [Sitemap Halaman Statis](https://azm-pom-mini.blogspot.com/sitemap-pages.xml): Peta situs halaman statis.
