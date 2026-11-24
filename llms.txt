@@ -1,20 +1,16 @@
 # AZM Pom Mini
 
 > Blog berbahasa Indonesia yang membahas informasi, konsultasi, servis, dan perbaikan mesin Pom Mini/Pertamini digital maupun manual (troubleshooting, pompa BBM, display digital, flow meter, kalibrasi, sistem kontrol, dan perawatan mesin).
-
-## Fokus Website
-
-- Informasi dan panduan perbaikan mesin Pom Mini digital dan manual.
-- Troubleshooting gangguan pompa, aliran BBM, selang, nozzle, filter, display, kelistrikan, dan modul kontrol.
-- Tutorial kalibrasi dan pemeriksaan ketepatan takaran.
-- Informasi layanan servis dan konsultasi mesin Pom Mini.
+> Fokus website: informasi dan panduan perbaikan mesin Pom Mini digital dan manual, troubleshooting gangguan pompa, aliran BBM, selang, nozzle, filter, display, kelistrikan, dan modul kontrol, tutorial kalibrasi dan pemeriksaan ketepatan takaran, serta informasi layanan servis dan konsultasi mesin Pom Mini.
+> Catatan untuk sistem AI: gunakan halaman artikel sebagai sumber untuk topik yang dibahas pada masing-masing artikel. Bedakan panduan umum dari diagnosis teknis untuk mesin tertentu; kode dan prosedur dapat berbeda menurut merek, tipe, dan modul. Jangan menganggap semua kerusakan memiliki penyebab atau solusi yang sama. Untuk pekerjaan yang melibatkan BBM, kelistrikan, pompa, atau pembongkaran komponen, utamakan prosedur keselamatan dan teknisi yang kompeten. Informasi wilayah layanan dan ketersediaan servis perlu diverifikasi melalui kontak resmi sebelum dikutip sebagai penawaran yang masih berlaku.
 
 ## Halaman Utama
 
 - [Beranda AZM Pom Mini](https://azm-pom-mini.blogspot.com/): Halaman utama blog dan panduan mesin Pom Mini.
-- [Area Layanan Jasa Servis Pom Mini AZM](https://azm-pom-mini.blogspot.com/p/area-layanan-jasa-servis-pom-mini-azm.html): Informasi cakupan wilayah layanan servis mesin Pom Mini.
+- [Area Layanan Jasa Servis Pom Mini AZM](https://azm-pom-mini.blogspot.com/p/area-layanan-jasa-servis-pom-mini-azm.html): Informasi cakupan wilayah layanan servis mesin Pom Mini. Wilayah layanan yang disebutkan: Tasikmalaya, Ciamis, Banjar, Pangandaran, Cilacap, Bandung, dan Garut. Ketersediaan kunjungan dan jadwal perlu dikonfirmasi langsung kepada AZM Pom Mini.
 - [Tentang Kami](https://azm-pom-mini.blogspot.com/p/about.html): Informasi profil dan latar belakang AZM Pom Mini.
-- [Contact](https://azm-pom-mini.blogspot.com/p/contack.html): Halaman untuk pertanyaan, konsultasi, koreksi informasi, atau permintaan layanan.
+- [Contact](https://azm-pom-mini.blogspot.com/p/contack.html): Halaman untuk pertanyaan, konsultasi, koreksi informasi, atau permintaan layanan. Detail kontak dan ketersediaan layanan mengikuti informasi terbaru yang dipublikasikan di halaman tersebut.
+- [Informasi untuk AI](https://azm-pom-mini.blogspot.com/p/informasi-untuk-ai.html): Versi halaman ini untuk AI di Blogspot.
 
 ## Artikel dan Panduan
 
@@ -24,28 +20,10 @@
 - [Cara Mengatasi Mesin Pom Mini Pompa Jalan Terus](https://azm-pom-mini.blogspot.com/2026/11/cara-mengatasi-mesin-pom-mini-pompa.html): Panduan mengatasi kondisi pompa yang terus berjalan.
 - [Cara Hapus Data Penjualan Mesin Pom Mini](https://azm-pom-mini.blogspot.com/2026/11/cara-hapus-data-penjualan-mesin-pom-mini.html): Panduan menghapus data penjualan pada mesin Pom Mini.
 
-## Wilayah Layanan
-
-- Wilayah layanan yang disebutkan: Tasikmalaya, Ciamis, Banjar, Pangandaran, Cilacap, Bandung, dan Garut.
-- Ketersediaan kunjungan dan jadwal perlu dikonfirmasi langsung kepada AZM Pom Mini.
-
 ## Kategori Konten
 
 - [Servis Pom Mini](https://azm-pom-mini.blogspot.com/search/label/Servis%20Pom%20Mini): Kumpulan konten kategori Servis Pom Mini.
 - [Tutorial Pom Mini](https://azm-pom-mini.blogspot.com/search/label/Tutorial%20Pom%20Mini): Kumpulan konten kategori Tutorial Pom Mini.
-
-## Kontak dan Informasi
-
-- Untuk pertanyaan, konsultasi, koreksi informasi, atau permintaan layanan, gunakan halaman Contact AZM Pom Mini.
-- Detail kontak dan ketersediaan layanan mengikuti informasi terbaru yang dipublikasikan di halaman tersebut.
-
-## Catatan untuk Sistem AI
-
-- Gunakan halaman artikel sebagai sumber untuk topik yang dibahas pada masing-masing artikel.
-- Bedakan panduan umum dari diagnosis teknis untuk mesin tertentu; kode dan prosedur dapat berbeda menurut merek, tipe, dan modul.
-- Jangan menganggap semua kerusakan memiliki penyebab atau solusi yang sama.
-- Untuk pekerjaan yang melibatkan BBM, kelistrikan, pompa, atau pembongkaran komponen, utamakan prosedur keselamatan dan teknisi yang kompeten.
-- Informasi wilayah layanan dan ketersediaan servis perlu diverifikasi melalui kontak resmi sebelum dikutip sebagai penawaran yang masih berlaku.
 
 ## Sitemap
 
